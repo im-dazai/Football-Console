@@ -1,0 +1,8 @@
+D:\Adobe\Comp 1\VS Saves\Pyramid\bin\Debug\Pyramid.exe.config
+D:\Adobe\Comp 1\VS Saves\Pyramid\bin\Debug\Pyramid.exe
+D:\Adobe\Comp 1\VS Saves\Pyramid\bin\Debug\Pyramid.pdb
+D:\Adobe\Comp 1\VS Saves\Pyramid\obj\Debug\Pyramid.csproj.AssemblyReference.cache
+D:\Adobe\Comp 1\VS Saves\Pyramid\obj\Debug\Pyramid.csproj.SuggestedBindingRedirects.cache
+D:\Adobe\Comp 1\VS Saves\Pyramid\obj\Debug\Pyramid.csproj.CoreCompileInputs.cache
+D:\Adobe\Comp 1\VS Saves\Pyramid\obj\Debug\Pyramid.exe
+D:\Adobe\Comp 1\VS Saves\Pyramid\obj\Debug\Pyramid.pdb
